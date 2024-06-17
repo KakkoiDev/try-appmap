@@ -1,0 +1,19 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "content": "json-server"
+    },
+    {
+      "id": 2,
+      "title": "Next.js Introduction",
+      "content": "Learn about the features of Next.js."
+    },
+    {
+      "id": 3,
+      "title": "React Basics",
+      "content": "Understanding the fundamentals of React."
+    }
+  ]
+}
